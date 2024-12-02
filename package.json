@@ -1,0 +1,11 @@
+{
+  "name": "sistema-suporte",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "scripts": {
+    "dev":"node --watch src/server.js"
+  },
+  "author": "Leonardo Batista",
+  "license": "ISC",
+  "description": "API de gerenciamento de tickets de suporte."
+}
